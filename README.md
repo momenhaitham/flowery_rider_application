@@ -27,17 +27,23 @@ Part of the Flowery ecosystem — paired with the [Flowery customer app](https:/
 
 <div align="center">
 
-### Onboarding & Auth
-![Onboarding & Auth](assets/screenshots/Onboarding.png)
+<img width="1280" height="2856" alt="Screenshot_1776149525" src="https://github.com/user-attachments/assets/dc294e82-8458-4276-9e64-6291d87f07fa" />
+<img width="1280" height="2856" alt="Screenshot_1776149521" src="https://github.com/user-attachments/assets/d35b3050-6e69-455d-ae41-1abcfb2f6c9f" />
+<img width="1280" height="2856" alt="Screenshot_1776149509" src="https://github.com/user-attachments/assets/07eedabe-e99d-4908-aed3-4f8332931746" />
+<img width="1280" height="2856" alt="Screenshot_1776149419" src="https://github.com/user-attachments/assets/1fae39e1-1afc-4658-9f68-f317328fb764" />
+<img width="1280" height="2856" alt="Screenshot_1776149220" src="https://github.com/user-attachments/assets/696137d4-9815-401a-8da3-e4bc652d2558" />
+<img width="1280" height="2856" alt="Screenshot_1776149214" src="https://github.com/user-attachments/assets/a46de402-481d-4897-a0f1-a4bd591216ac" />
+<img width="1280" height="2856" alt="Screenshot_1776149206" src="https://github.com/user-attachments/assets/ee22a08d-9d29-4d41-b08a-a1d339fc5287" />
+<img width="1280" height="2856" alt="Screenshot_1776149143" src="https://github.com/user-attachments/assets/a81ecc8c-10a9-4353-b21e-670572c61a89" />
+<img width="1280" height="2856" alt="Screenshot_1776149135" src="https://github.com/user-attachments/assets/12aad7b4-062f-4fae-940c-32463809a310" />
+<img width="1280" height="2856" alt="Screenshot_1776149109" src="https://github.com/user-attachments/assets/ea7cf786-e908-40ff-8937-5c7fa5707a10" />
+<img width="1280" height="2856" alt="Screenshot_1776149001" src="https://github.com/user-attachments/assets/80cde407-c86d-47b3-9785-7972096da2a6" />
+<img width="1280" height="2856" alt="Screenshot_1776148993" src="https://github.com/user-attachments/assets/97f73298-1f46-484f-962e-8929e32dd18f" />
+<img width="1280" height="2856" alt="Screenshot_1776147078" src="https://github.com/user-attachments/assets/95dd31d2-5b68-4bcb-bf43-bdb7b5549f88" />
+<img width="1280" height="2856" alt="Screenshot_1776147067" src="https://github.com/user-attachments/assets/a5578f49-0c47-4938-9357-c3f89afaa99f" />
+<img width="1080" height="2400" alt="557738828-3ee6e252-23dd-4640-b817-49045cab769c" src="https://github.com/user-attachments/assets/b46c05db-1cd5-410c-b451-3d74438bd671" />
+<img width="1080" height="2400" alt="557738810-d974e507-9ce0-40d2-8f20-bb27ec208332" src="https://github.com/user-attachments/assets/70f72fec-3233-4884-8372-bc7c269cb1f2" />
 
-### Orders & Delivery
-![Orders & Delivery](assets/screenshots/OrdersDelivery.png)
-
-### Orders Request
-![Orders Request](assets/screenshots/OrdersRequest.png)
-
-### Profile
-![Profile](assets/screenshots/Profile.png)
 
 </div>
 
