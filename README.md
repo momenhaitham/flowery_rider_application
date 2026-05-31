@@ -199,8 +199,8 @@ This app is one half of a complete flower delivery platform:
 
 | App | Description | Repo |
 |-----|-------------|------|
-| **Flowery** | Customer app — browse, order, and track flower deliveries | [AhmedYousef72/e_commerce_app](https://github.com/AhmedYousef72/e_commerce_app) |
-| **Flowery Rider** (this repo) | Driver app — receive orders, navigate, and update delivery status | [AhmedYousef72/flowery_rider_application](https://github.com/AhmedYousef72/flowery_rider_application) |
+| **Flowery** | Customer app — browse, order, and track flower deliveries | [IslamRamzy444/flowery_store_app](https://github.com/IslamRamzy444/flowery_store_app) |
+| **Flowery Rider** (this repo) | Driver app — receive orders, navigate, and update delivery status | [momenhaitham/flowery_rider_application](https://github.com/momenhaitham/flowery_rider_application) |
 
 Both apps communicate in real time via **Cloud Firestore** for live order tracking and driver location updates.
 
