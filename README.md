@@ -17,9 +17,8 @@ Part of the Flowery ecosystem — paired with the [Flowery customer app](https:/
 
 ## Demo
 
-[![Watch Demo](assets/screenshots/Rider%20App.png)](https://drive.google.com/file/d/1yd1WtJ5hG9XYRmgjmOsZhLeLANiPGqYI/view?usp=sharing)
 
-> Click the image above to watch the full demo video (Flowery customer app + Flowery Rider delivery app)
+
 
 ---
 
